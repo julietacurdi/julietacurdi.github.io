@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Julieta Curdi - Product Designer & Manager">
+  <meta name="author" content="Julieta Curdi">
+  <title>Julieta Curdi - Product Designer & Manager</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
+</head>
+<body>
+<div>
 <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJF9UpbXz59qxF1K3rkO2YL%2FJulieta-Curdi-Portfolio%3Fnode-id%3D240%253A149%26viewport%3D348%252C-716%252C0.14707885682582855%26scaling%3Dmin-zoom" allowfullscreen></iframe>
+ </div>
+</body>
+</html>
